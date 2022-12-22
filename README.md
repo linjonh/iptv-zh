@@ -19,10 +19,14 @@
 
 
 ### 更新
+  - 20221205
+    - 国内电视台 2022-11
+    - 国外电视台 2022-11
+    - 台湾香港澳门 2022-11
   - 20221109
-    - 国内电视台2022-7
-    - 国外电视台2022-7
-    - 台湾香港澳门2022-7
+    - 国内电视台 2022-7
+    - 国外电视台 2022-7
+    - 台湾香港澳门 2022-7
   - 20220111
     - GGTV 424个源全部可用
     - 影视剧场 45个全部流畅
@@ -30,6 +34,11 @@
     - 3100个全部有效
     - 直播源 5000个全部有效
     - 国家直播源 160多个全部有效
+
+<details>
+<summary>更早期更新</summary>
+<p>
+
   - 20200523
     - 更新 国内电视台直播源
     - 更新 台湾香港海外直播源
@@ -69,6 +78,9 @@
   - 20180614
     - 更新 CCTV等世界杯相关HD播放源
 
+</p>
+</details>
+
 ## 2022 卡塔尔世界杯 相关
 
 - 2022 卡塔尔世界杯 比赛日程：[点击复制链接](https://calendar.google.com/calendar/ical/6523d8b79644ac76276871d4dbc595b0fae5076dcd166ef87b09817f45a71d3a%40group.calendar.google.com/public/basic.ics)
@@ -84,17 +96,20 @@
   - [包括完整内容所有已知频道.m3u](https://iptv-org.github.io/iptv/index.nsfw.m3u)
 
 全国可用直播源：
-- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2022-7.m3u) - (2022年8月更新 CCTV、各大卫视、上千个地方台)
+- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2022-11.m3u) - (2022年11月更新 CCTV、各大卫视、上千个地方台)
 - [CCTV+卫视-上海源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视-上海联通源.m3u) 
 - [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学-校园网.m3u) 
 - [CCTV+卫视+地方台-安徽农大.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽农大2021.m3u) 
-- [国外电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台2022-7.m3u) -  (2022年8月更新 韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等)
-- [台湾香港澳门电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门2022-7.m3u) - (2022年8月更新)
+- [国外电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台2022-11.m3u) -  (2022年11月更新 韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等)
+- [台湾香港澳门电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门2022-11.m3u) - (2022年11月更新)
 - [轮播_华数.NewTV.SiTV.CIBN.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_华数.NewTV.SiTV.CIBN.m3u)
 - [800个广播电台.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广播电台2021.m3u)
 - [景区直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源.m3u8)
 
-各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：
+<details>
+<summary>各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：</summary>
+<p>
+
 - [北京联通组播IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通IPTV组播2022.m3u) 2022-02-10
 - [北京电信组播IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京电信组播.m3u) 2022-02-10
 - [北京移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京移动.m3u) 2020-11-11
@@ -165,8 +180,13 @@
 - [山东青岛联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东青岛联通.m3u) 2019-11-18
 - [山东有线IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东有线.m3u) 2019-12-19
 
+</p>
+</details>
 
-其他直播源 不确定有效性😂
+<details>
+<summary>其他直播源 不确定有效性😂</summary>
+<p>
+
 - [我的播放源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/我的播放源.m3u8)
 - [GGTV424个源全部可用.m3u](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/GGTV424个源全部可用.m3u)
 - [45个影视剧场全部流畅.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/45个影视剧场全部流畅.m3u8)
@@ -184,6 +204,9 @@
 - [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内地方台202005.m3u) (2020年5月更新 CCTV、各大卫视、上千个地方台)
 - [台湾香港海外直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外202005.m3u) (2020年5月更新 台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
 - [轮播_华数求索爱奇艺CIBN.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_爱奇艺CIBN华数NewTV虎牙战旗-202005.m3u) (2020年5月更新)
+
+</p>
+</details>
 
 ## 工具
 
